@@ -1,16 +1,30 @@
 ## Hi there 👋
 
 <!--
-**saeed-moo/saeed-moo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Saeed Moosivand 👋
 
-Here are some ideas to get you started:
+I'm a **Computer Science student at Aston University** with a keen interest in **Artificial Intelligence**, **web development**, and **programming**. I'm always eager to learn new technologies and develop my skills in coding and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+- 🎓 Currently studying **Computer Science** with a focus on **AI** and **software development** at **Aston University**.
+- 💻 I enjoy exploring new programming languages and frameworks, with experience in **Java**, **Python**,  **JavaScript** ,**C++**, and **C#**.
+- 🌱 I'm actively learning about **AI**, **Machine Learning**, and **Data Science**.
+- 🔗 Check out my projects and repositories to see what I'm working on!
+
+## 📫 How to reach me:
+- ✉️ [Email](mailto:240169451@aston.ac.uk) (Student email)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/saeedmoosivand)
+- 💼 [GitHub](https://github.com/saeed-moo)
+
+---
+
+### 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+⭐ Check out my repositories and feel free to collaborate!
+
 -->
