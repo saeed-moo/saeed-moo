@@ -71,9 +71,11 @@
 
 <div align="center">
 
-![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeed-moo&show_icons=true&theme=radical&hide_border=true)
+![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeed-moo&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-moo&layout=compact&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saeed-moo&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-moo&layout=compact&theme=radical&hide_border=false&hide=blade,css,html)
 
 </div>
 
