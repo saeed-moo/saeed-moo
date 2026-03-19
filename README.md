@@ -3,12 +3,12 @@
 
 # Hello, I'm Saeed Moosivand 👋
 
-I'm a **Computer Science student at Aston University** with a keen interest in **Artificial Intelligence**, **web development**, and **programming**. I'm always eager to learn new technologies and develop my skills in coding and problem-solving.
+I'm a **Computer Science student at Aston University** with a keen interest in **Artificial Intelligence&Machine Learning**, **web development**, and **programming**. I'm always eager to learn new technologies and develop my skills in coding and problem-solving.
 
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Science** with a focus on **AI** and **software development** at **Aston University**.
-- 💻 I enjoy exploring new programming languages and frameworks, with experience in **Java**, **Python**,  **JavaScript** ,**C++**, and **C#**.
-- 🌱 I'm actively learning about **AI**, **Machine Learning**, and **Data Science**.
+- 💻 I enjoy exploring new programming languages and frameworks, with experience in **Java**, **Python**,**C++**, and **C**.
+- 🌱 I'm actively learning about **AI**, **Machine Learning**.
 - 🔗 Check out my projects and repositories to see what I'm working on!
 
 ## 📫 How to reach me:
